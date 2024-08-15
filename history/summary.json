@@ -6,8 +6,8 @@
     "slug": "vitr-dev",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
@@ -16,7 +16,7 @@
     "timeMonth": 238,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-08-15": 0,
+      "2024-08-15": 2,
       "2023-09-14": 17
     }
   }
