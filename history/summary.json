@@ -4,17 +4,19 @@
     "url": "https://vitr.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/vitr.dev.ico",
     "slug": "vitr-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "87.19%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.96%",
     "time": 261,
-    "timeDay": 161,
+    "timeDay": 182,
     "timeWeek": 230,
     "timeMonth": 209,
-    "timeYear": 266,
-    "dailyMinutesDown": {}
+    "timeYear": 265,
+    "dailyMinutesDown": {
+      "2025-11-18": 185
+    }
   }
 ]
