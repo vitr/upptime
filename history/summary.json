@@ -6,17 +6,17 @@
     "slug": "vitr-dev",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "85.44%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "86.09%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.96%",
     "time": 262,
-    "timeDay": 193,
-    "timeWeek": 223,
-    "timeMonth": 209,
+    "timeDay": 194,
+    "timeWeek": 211,
+    "timeMonth": 212,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-11-18": 210
+      "2025-11-18": 201
     }
   }
 ]
